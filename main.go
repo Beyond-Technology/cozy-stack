@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cozy/cozy-stack/cmd"
+	"github.com/Beyond-Technology/cozy-stack/cmd"
 )
 
 func main() {
