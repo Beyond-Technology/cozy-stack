@@ -1,4 +1,4 @@
-module github.com/cozy/cozy-stack
+module github.com/Beyond-Technology/cozy-stack
 
 go 1.15
 
